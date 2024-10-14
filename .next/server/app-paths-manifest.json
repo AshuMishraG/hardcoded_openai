@@ -2,13 +2,13 @@
   "/_not-found/page": "app/_not-found/page.js",
   "/api/assistants/files/route": "app/api/assistants/files/route.js",
   "/api/assistants/threads/[threadId]/actions/route": "app/api/assistants/threads/[threadId]/actions/route.js",
-  "/examples/file-search/page": "app/examples/file-search/page.js",
   "/api/files/[fileId]/route": "app/api/files/[fileId]/route.js",
+  "/examples/basic-chat/page": "app/examples/basic-chat/page.js",
+  "/examples/file-search/page": "app/examples/file-search/page.js",
   "/page": "app/page.js",
   "/examples/all/page": "app/examples/all/page.js",
   "/examples/function-calling/page": "app/examples/function-calling/page.js",
-  "/examples/basic-chat/page": "app/examples/basic-chat/page.js",
   "/api/assistants/threads/route": "app/api/assistants/threads/route.js",
-  "/api/assistants/threads/[threadId]/messages/route": "app/api/assistants/threads/[threadId]/messages/route.js",
-  "/api/assistants/route": "app/api/assistants/route.js"
+  "/api/assistants/route": "app/api/assistants/route.js",
+  "/api/assistants/threads/[threadId]/messages/route": "app/api/assistants/threads/[threadId]/messages/route.js"
 }

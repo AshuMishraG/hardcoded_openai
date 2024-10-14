@@ -1,32 +1,43 @@
 {
   "pages": {
     "/_not-found/page": [
-      "static/chunks/webpack-a0b311e3199aa871.js",
+      "static/chunks/webpack-8eabafbbe24c7cc0.js",
       "static/chunks/fd9d1056-81f448b567f73d85.js",
       "static/chunks/23-1b6f52a699a42de1.js",
       "static/chunks/main-app-b720cca1808f65cc.js",
       "static/chunks/app/_not-found/page-49d93b941e661f07.js"
     ],
     "/layout": [
-      "static/chunks/webpack-a0b311e3199aa871.js",
+      "static/chunks/webpack-8eabafbbe24c7cc0.js",
       "static/chunks/fd9d1056-81f448b567f73d85.js",
       "static/chunks/23-1b6f52a699a42de1.js",
       "static/chunks/main-app-b720cca1808f65cc.js",
       "static/css/98b9a9a680c59f5d.css",
       "static/chunks/app/layout-78353c0e9da012aa.js"
     ],
-    "/examples/file-search/page": [
-      "static/chunks/webpack-a0b311e3199aa871.js",
+    "/examples/basic-chat/page": [
+      "static/chunks/webpack-8eabafbbe24c7cc0.js",
       "static/chunks/fd9d1056-81f448b567f73d85.js",
       "static/chunks/23-1b6f52a699a42de1.js",
       "static/chunks/main-app-b720cca1808f65cc.js",
-      "static/css/d90b7ba930f73ab8.css",
+      "static/css/bc61c4c74cdd7812.css",
       "static/chunks/18-3d40927ad70a3c00.js",
       "static/chunks/552-e32915d50ade72c0.js",
-      "static/chunks/app/examples/file-search/page-4860f6c639bcd434.js"
+      "static/chunks/app/examples/basic-chat/page-a9330c51c94d55f7.js"
+    ],
+    "/examples/file-search/page": [
+      "static/chunks/webpack-8eabafbbe24c7cc0.js",
+      "static/chunks/fd9d1056-81f448b567f73d85.js",
+      "static/chunks/23-1b6f52a699a42de1.js",
+      "static/chunks/main-app-b720cca1808f65cc.js",
+      "static/css/865b1f3a45910400.css",
+      "static/css/bc61c4c74cdd7812.css",
+      "static/chunks/18-3d40927ad70a3c00.js",
+      "static/chunks/552-e32915d50ade72c0.js",
+      "static/chunks/app/examples/file-search/page-918a020def96b10c.js"
     ],
     "/page": [
-      "static/chunks/webpack-a0b311e3199aa871.js",
+      "static/chunks/webpack-8eabafbbe24c7cc0.js",
       "static/chunks/fd9d1056-81f448b567f73d85.js",
       "static/chunks/23-1b6f52a699a42de1.js",
       "static/chunks/main-app-b720cca1808f65cc.js",
@@ -34,37 +45,26 @@
       "static/chunks/app/page-55f8f54a0f7c74a7.js"
     ],
     "/examples/all/page": [
-      "static/chunks/webpack-a0b311e3199aa871.js",
+      "static/chunks/webpack-8eabafbbe24c7cc0.js",
       "static/chunks/fd9d1056-81f448b567f73d85.js",
       "static/chunks/23-1b6f52a699a42de1.js",
       "static/chunks/main-app-b720cca1808f65cc.js",
       "static/css/d21ae4fd82f8e4d0.css",
-      "static/css/d90b7ba930f73ab8.css",
+      "static/css/bc61c4c74cdd7812.css",
       "static/chunks/18-3d40927ad70a3c00.js",
       "static/chunks/552-e32915d50ade72c0.js",
-      "static/chunks/app/examples/all/page-026dec487ac1caff.js"
+      "static/chunks/app/examples/all/page-aaf0834739d530ba.js"
     ],
     "/examples/function-calling/page": [
-      "static/chunks/webpack-a0b311e3199aa871.js",
+      "static/chunks/webpack-8eabafbbe24c7cc0.js",
       "static/chunks/fd9d1056-81f448b567f73d85.js",
       "static/chunks/23-1b6f52a699a42de1.js",
       "static/chunks/main-app-b720cca1808f65cc.js",
       "static/css/d21ae4fd82f8e4d0.css",
-      "static/css/d90b7ba930f73ab8.css",
+      "static/css/bc61c4c74cdd7812.css",
       "static/chunks/18-3d40927ad70a3c00.js",
       "static/chunks/552-e32915d50ade72c0.js",
-      "static/chunks/app/examples/function-calling/page-b2988dcfafe62167.js"
-    ],
-    "/examples/basic-chat/page": [
-      "static/chunks/webpack-a0b311e3199aa871.js",
-      "static/chunks/fd9d1056-81f448b567f73d85.js",
-      "static/chunks/23-1b6f52a699a42de1.js",
-      "static/chunks/main-app-b720cca1808f65cc.js",
-      "static/css/19fcbc68b2038a0c.css",
-      "static/css/d90b7ba930f73ab8.css",
-      "static/chunks/18-3d40927ad70a3c00.js",
-      "static/chunks/552-e32915d50ade72c0.js",
-      "static/chunks/app/examples/basic-chat/page-b6c9a0f2bd8629ab.js"
+      "static/chunks/app/examples/function-calling/page-09c2855cb198f78d.js"
     ]
   }
 }
