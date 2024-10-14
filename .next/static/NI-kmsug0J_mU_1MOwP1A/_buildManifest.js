@@ -1,0 +1,1 @@
+self.__BUILD_MANIFEST={__rewrites:{afterFiles:[],beforeFiles:[],fallback:[]},"/_error":["static/chunks/pages/_error-1be831200e60c5c0.js"],"/apiIntegration":["static/chunks/66-1c640bacb1a85a32.js","static/chunks/pages/apiIntegration-152c0758fd078d79.js"],sortedPages:["/_app","/_error","/apiIntegration"]},self.__BUILD_MANIFEST_CB&&self.__BUILD_MANIFEST_CB();
